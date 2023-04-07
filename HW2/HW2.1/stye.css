@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+ .wrapper{
+  margin: 300;
+  padding: 30;
+  border: 0;
+  background-image: 100%;
+  width: 1200px;
+  height:1200px;
+  background: fixed;
+  background-image: url(happy-bunny-with-many-easter-eggs-grass-festive-background-decorative-design_90220-1091.jpg.jpg);
+ background-size: cover;
+ background-repeat:no-repeat ;
+ 
+ 
+}
+
+.Text{
+  margin: 20px;
+  padding: 20px;
+  position: relative;
+}
+
+.Easter{
+  background-color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  color: blue; 
+  /* background-position: 0 0; */
+}
+
+
+

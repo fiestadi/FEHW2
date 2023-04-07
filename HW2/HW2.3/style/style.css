@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 20px;
+ position: absolute;
+    top: 0;
+    right: 0;
+    font-style: normal;
+}
+.Text{
+    font-style: oblique;
+}
+.container1{
+    margin: 20px;
+    padding: 100px;
+}    
+ul{
+    margin: 20px;
+    padding: 10px;
+}
+table{
+border: 1px solid black;
+}
+th,td{
+    border: 1px solid black;
+}
+.Image{
+   
+    width: 30px;
+    height: 20px;
+
+}
+.Image1{
+width: 10;
+height: 20px;
+}
